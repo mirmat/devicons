@@ -25,7 +25,16 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.iconsfordevs-yarn {
+  &:before {
+    content: $iconsfordevs-yarn;
+  }
+}
+.iconsfordevs-yarn_kitten {
+  &:before {
+    content: $iconsfordevs-yarn_kitten;
+  }
+}
 .iconsfordevs-mocha {
   &:before {
     content: $iconsfordevs-mocha;
