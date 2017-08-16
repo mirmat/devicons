@@ -29,8 +29,8 @@ Do you have any additional request? Drop me a line or support an issue.
 
 
 ##Changelog
+- 2.1.0 - Yarn logos 
 - 2.0.0 - new begining
-[Detailed changelog & contributors](/CHANGELOG.md)
 
 
 
