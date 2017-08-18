@@ -25,6 +25,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.iconsfordevs-karma {
+  &:before {
+    content: $iconsfordevs-karma;
+  }
+}
 .iconsfordevs-yarn {
   &:before {
     content: $iconsfordevs-yarn;
