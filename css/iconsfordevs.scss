@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-vue {
+  &:before {
+    content: $iconsfordevs-vue;
+  }
+}
 .iconsfordevs-karma {
   &:before {
     content: $iconsfordevs-karma;
