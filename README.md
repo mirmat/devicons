@@ -15,26 +15,26 @@ Icons for Devs iconic font is free to use and licensed under [MIT](http://openso
  5. Include a reference to the `iconsfordevs.css` file from every webpage you need to use it.
 
 
-##Install using NPM
+## Install using NPM
 `npm install iconsfordevs`
 
-##Create a custom set
+## Create a custom set
 In the repository you can find the IcoMoon manifest file [ `selection.json` ]. Load it into IcoMoon, make a proper selection of your desired icons and use them as you like. IcoMoon also can load `iconsfordevs.svg` file.
 
-##Contribute to the project.
+## Contribute to the project.
 IcoMoon is your dear friend. Load your SVG file into IcoMoon, make any changes and ship produced the `selection.json` file. I don't recommend using the `selections.json` file from the master branch as I want to keep encoded HTML characters serialized. New icons will be added in ascending order. You may also contribute just by shipping a vector based icon. (EPS,AI,SVG).
 
 Do you have any additional request? Drop me a line or support an issue.
 
 
 
-##Changelog
+## Changelog
 - 2.1.0 - Yarn logos 
 - 2.0.0 - new begining
 
 
 
-##Author
+## Author
 - Email: jestem@zaprogramowany.pl
 - Twitter: http://twitter.com/zaprogramowany
 - Website: http://zaprogramowany.pl
