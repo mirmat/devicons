@@ -26,6 +26,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-susy {
+  &:before {
+    content: $iconsfordevs-susy;
+  }
+}
+.iconsfordevs-susy_badge {
+  &:before {
+    content: $iconsfordevs-susy_badge;
+  }
+}
 .iconsfordevs-vue {
   &:before {
     content: $iconsfordevs-vue;
