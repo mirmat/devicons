@@ -26,6 +26,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-azure {
+  &:before {
+    content: $iconsfordevs-azure;
+  }
+}
+.iconsfordevs-cucumber {
+  &:before {
+    content: $iconsfordevs-cucumber;
+  }
+}
 .iconsfordevs-circleci {
   &:before {
     content: $iconsfordevs-circleci;
