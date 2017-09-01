@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-mozilla_alt {
+  &:before {
+    content: $iconsfordevs-mozilla_alt;
+  }
+}
 .iconsfordevs-susy {
   &:before {
     content: $iconsfordevs-susy;
