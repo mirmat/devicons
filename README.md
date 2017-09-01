@@ -29,6 +29,7 @@ Do you have any additional request? Drop me a line or support an issue.
 
 
 ## Changelog
+- 2.2.0 - updated icons: Komodo, Mozilla; NEW icons: Azure, Cucumber, CircleCI, Cordova, Jasmine, Karma, Shopify, Susy, VueJS
 - 2.1.0 - Yarn logos 
 - 2.0.0 - new begining
 
