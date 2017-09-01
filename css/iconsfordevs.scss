@@ -26,6 +26,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-circleci {
+  &:before {
+    content: $iconsfordevs-circleci;
+  }
+}
+.iconsfordevs-cordova {
+  &:before {
+    content: $iconsfordevs-circleci;
+  }
+}
+.iconsfordevs-jasmine {
+  &:before {
+    content: $iconsfordevs-circleci;
+  }
+}
 .iconsfordevs-mozilla_alt {
   &:before {
     content: $iconsfordevs-mozilla_alt;
