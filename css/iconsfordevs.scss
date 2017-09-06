@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+ .iconsfordevs-arduino {
+   &:before {
+     content: $iconsfordevs-arduino;
+   }
+ }
 .iconsfordevs-purescript {
   &:before {
     content: $iconsfordevs-purescript;
