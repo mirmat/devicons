@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-purescript {
+  &:before {
+    content: $iconsfordevs-purescript;
+  }
+}
 .iconsfordevs-azure {
   &:before {
     content: $iconsfordevs-azure;
