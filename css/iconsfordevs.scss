@@ -26,7 +26,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
- .iconsfordevs-arduino {
+.iconsfordevs-vargant {
+  &:before {
+    content: $iconsfordevs-vargant;
+  }
+}
+.iconsfordevs-arduino {
    &:before {
      content: $iconsfordevs-arduino;
    }
