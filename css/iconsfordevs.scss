@@ -26,7 +26,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.iconsfordevs-marcurial {
+.iconsfordevs-haxe {
+  &:before {
+    content: $iconsfordevs-haxe;
+  }
+}
+.iconsfordevs-mercurial {
   &:before {
     content: $iconsfordevs-mercurial;
   }
@@ -1051,4 +1056,3 @@
     content: $iconsfordevs-sublime;
   }
 }
-
