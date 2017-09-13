@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-marcurial {
+  &:before {
+    content: $iconsfordevs-mercurial;
+  }
+}
 .iconsfordevs-vargant {
   &:before {
     content: $iconsfordevs-vargant;
