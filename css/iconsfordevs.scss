@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-gradle {
+  &:before {
+    content: $iconsfordevs-gradle;
+  }
+}
 .iconsfordevs-haxe {
   &:before {
     content: $iconsfordevs-haxe;
