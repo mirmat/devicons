@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-marionette {
+  &:before {
+    content: $iconsfordevs-marionette;
+  }
+}
 .iconsfordevs-gradle {
   &:before {
     content: $iconsfordevs-gradle;
