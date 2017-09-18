@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-thenounproject {
+&:before {
+  content: $iconsfordevs-thenounproject;
+}
+}
 .iconsfordevs-gitlab {
   &:before {
     content: $iconsfordevs-gitlab;
