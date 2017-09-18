@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-gitlab {
+  &:before {
+    content: $iconsfordevs-gitlab;
+  }
+}
 .iconsfordevs-marionette {
   &:before {
     content: $iconsfordevs-marionette;
@@ -868,21 +873,21 @@
 }
 .iconsfordevs-coda .path1 {
   &:before {
-    content: $iconsfordevs-coda-path1;  
+    content: $iconsfordevs-coda-path1;
     color: #91CC62;
   }
 }
 .iconsfordevs-coda .path2 {
   &:before {
-    content: $iconsfordevs-coda-path2;  
-    margin-left: -1em;  
+    content: $iconsfordevs-coda-path2;
+    margin-left: -1em;
     color: #000;
   }
 }
 .iconsfordevs-coda .path3 {
   &:before {
-    content: $iconsfordevs-coda-path3;  
-    margin-left: -1em;  
+    content: $iconsfordevs-coda-path3;
+    margin-left: -1em;
     color: #000;
   }
 }
@@ -903,49 +908,49 @@
 }
 .iconsfordevs-responsive .path1 {
   &:before {
-    content: $iconsfordevs-responsive-path1;  
+    content: $iconsfordevs-responsive-path1;
     color: #FFFFFF;
   }
 }
 .iconsfordevs-responsive .path2 {
   &:before {
-    content: $iconsfordevs-responsive-path2;  
-    margin-left: -1em;  
+    content: $iconsfordevs-responsive-path2;
+    margin-left: -1em;
     color: #000;
   }
 }
 .iconsfordevs-responsive .path3 {
   &:before {
-    content: $iconsfordevs-responsive-path3;  
-    margin-left: -1em;  
+    content: $iconsfordevs-responsive-path3;
+    margin-left: -1em;
     color: #000;
   }
 }
 .iconsfordevs-responsive .path4 {
   &:before {
-    content: $iconsfordevs-responsive-path4;  
-    margin-left: -1em;  
+    content: $iconsfordevs-responsive-path4;
+    margin-left: -1em;
     color: #000;
   }
 }
 .iconsfordevs-responsive .path5 {
   &:before {
-    content: $iconsfordevs-responsive-path5;  
-    margin-left: -1em;  
+    content: $iconsfordevs-responsive-path5;
+    margin-left: -1em;
     color: #000;
   }
 }
 .iconsfordevs-responsive .path6 {
   &:before {
-    content: $iconsfordevs-responsive-path6;  
-    margin-left: -1em;  
+    content: $iconsfordevs-responsive-path6;
+    margin-left: -1em;
     color: #000;
   }
 }
 .iconsfordevs-responsive .path7 {
   &:before {
-    content: $iconsfordevs-responsive-path7;  
-    margin-left: -1em;  
+    content: $iconsfordevs-responsive-path7;
+    margin-left: -1em;
     color: #FFFFFF;
   }
 }
@@ -1006,28 +1011,28 @@
 }
 .iconsfordevs-code_badge .path1 {
   &:before {
-    content: $iconsfordevs-code_badge-path1;  
+    content: $iconsfordevs-code_badge-path1;
     color: #000;
   }
 }
 .iconsfordevs-code_badge .path2 {
   &:before {
-    content: $iconsfordevs-code_badge-path2;  
-    margin-left: -1em;  
+    content: $iconsfordevs-code_badge-path2;
+    margin-left: -1em;
     color: #231F20;
   }
 }
 .iconsfordevs-code_badge .path3 {
   &:before {
-    content: $iconsfordevs-code_badge-path3;  
-    margin-left: -1em;  
+    content: $iconsfordevs-code_badge-path3;
+    margin-left: -1em;
     color: #231F20;
   }
 }
 .iconsfordevs-code_badge .path4 {
   &:before {
-    content: $iconsfordevs-code_badge-path4;  
-    margin-left: -1em;  
+    content: $iconsfordevs-code_badge-path4;
+    margin-left: -1em;
     color: #231F20;
   }
 }
