@@ -26,10 +26,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-indesign {
+  &:before {
+    content: $iconsfordevs-indesign;
+  }
+}
 .iconsfordevs-thenounproject {
 &:before {
   content: $iconsfordevs-thenounproject;
-}
+  }
 }
 .iconsfordevs-gitlab {
   &:before {
