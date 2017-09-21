@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-mustache {
+  &:before {
+    content: $iconsfordevs-mustache;
+  }
+}
 .iconsfordevs-handlebars {
   &:before {
     content: $iconsfordevs-handlebars;
