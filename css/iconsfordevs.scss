@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-handlebars {
+  &:before {
+    content: $iconsfordevs-handlebars;
+  }
+}
 .iconsfordevs-indesign {
   &:before {
     content: $iconsfordevs-indesign;
