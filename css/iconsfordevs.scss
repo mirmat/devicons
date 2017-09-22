@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-kubernetes {
+  &:before {
+    content: $iconsfordevs-kubernetes;
+  }
+}
 .iconsfordevs-mustache {
   &:before {
     content: $iconsfordevs-mustache;
