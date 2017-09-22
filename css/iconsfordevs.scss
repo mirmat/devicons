@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-filezilla {
+  &:before {
+    content: $iconsfordevs-filezilla;
+  }
+}
 .iconsfordevs-odata {
   &:before {
     content: $iconsfordevs-odata;
