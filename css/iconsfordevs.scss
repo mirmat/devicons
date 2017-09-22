@@ -26,6 +26,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-edge {
+  &:before {
+    content: $iconsfordevs-edge;
+  }
+}
+.iconsfordevs-d3 {
+  &:before {
+    content: $iconsfordevs-d3;
+  }
+}
+.iconsfordevs-shopware {
+  &:before {
+    content: $iconsfordevs-shopware;
+  }
+}
+.iconsfordevs-sketch {
+  &:before {
+    content: $iconsfordevs-sketch;
+  }
+}
 .iconsfordevs-filezilla {
   &:before {
     content: $iconsfordevs-filezilla;
