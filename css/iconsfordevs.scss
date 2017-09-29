@@ -26,6 +26,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-creativecloud {
+  &:before {
+    content: $iconsfordevs-creativecloud;
+  }
+}
+.iconsfordevs-photoshop {
+  &:before {
+    content: $iconsfordevs-photoshop;
+  }
+}
 .iconsfordevs-edge {
   &:before {
     content: $iconsfordevs-edge;
