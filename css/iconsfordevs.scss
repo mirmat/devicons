@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-incopy {
+  &:before {
+    content: $iconsfordevs-incopy;
+  }
+}
 .iconsfordevs-creativecloud {
   &:before {
     content: $iconsfordevs-creativecloud;
