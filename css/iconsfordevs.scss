@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-adobe_stock {
+  &:before {
+    content: $iconsfordevs-adobe_stock;
+  }
+}
 .iconsfordevs-incopy {
   &:before {
     content: $iconsfordevs-incopy;
