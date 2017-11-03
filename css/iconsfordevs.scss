@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-behance {
+  &:before {
+    content: $iconsfordevs-behance;
+  }
+}
 .iconsfordevs-adobe_lightroom {
   &:before {
     content: $iconsfordevs-adobe_lightroom;
