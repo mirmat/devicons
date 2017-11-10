@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-illustrator {
+  &:before {
+    content: $iconsfordevs-illustrator;
+  }
+}
 .iconsfordevs-behance {
   &:before {
     content: $iconsfordevs-behance;
