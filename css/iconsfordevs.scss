@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-adobe_xd {
+  &:before {
+    content: $iconsfordevs-adobe_xd;
+  }
+}
 .iconsfordevs-illustrator {
   &:before {
     content: $iconsfordevs-illustrator;
