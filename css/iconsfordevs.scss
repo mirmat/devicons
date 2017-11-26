@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-adobe {
+  &:before {
+    content: $iconsfordevs-adobe;
+  }
+}
 .iconsfordevs-coldfusion {
   &:before {
     content: $iconsfordevs-coldfusion;
