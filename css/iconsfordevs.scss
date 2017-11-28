@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-adobe_aftereffects {
+  &:before {
+    content: $iconsfordevs-adobe_aftereffects;
+  }
+}
 .iconsfordevs-adobe {
   &:before {
     content: $iconsfordevs-adobe;
