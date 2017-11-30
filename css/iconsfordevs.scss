@@ -26,6 +26,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-adobe_dimension {
+  &:before {
+    content: $iconsfordevs-adobe_premiere;
+  }
+}
 .iconsfordevs-adobe_premiere {
   &:before {
     content: $iconsfordevs-adobe_premiere;
