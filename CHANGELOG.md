@@ -2,6 +2,40 @@
 
 ### Versions
 
+## [2.4.0](#2.4.0)
+
+#### Updated icons
+- Photoshop
+- Apple Store
+- Travis
+- Adobe Illustrator
+- Adobe Dreamweaver
+- Adobe InDesign
+
+#### New icons
+- Adobe Creative Cloud
+- Adobe InCopy
+- Adobe Stock
+- Adobe Lightroom
+- Behance
+- Adobe XD
+- Adobe Flex
+- Adobe Frame Maker
+- Adobe
+- Adobe After Effects
+- Adobe Coldfusion
+- Adobe Premiere
+- Adobe Dimension
+- Adobe Audition
+- Adobe AIR
+- Adobe Bridge
+- Adobe Reader
+- Adobe Animate
+- Adobe Muse
+- Adobe Captivate
+- Adobe Character Animator
+- Adobe Capture
+
 ## [2.3.0](#2.3.0)
 
 #### Updated icons
