@@ -26,6 +26,51 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iconsfordevs-adobe_muse {
+  &:before {
+    content: $iconsfordevs-adobe_muse;
+  }
+}
+.iconsfordevs-adobe_character_animator {
+  &:before {
+    content: $iconsfordevs-adobe_character_animator;
+  }
+}
+.iconsfordevs-adobe_capture {
+  &:before {
+    content: $iconsfordevs-adobe_capture;
+  }
+}
+.iconsfordevs-adobe_captivate {
+  &:before {
+    content: $iconsfordevs-adobe_captivate;
+  }
+}
+.iconsfordevs-adobe_bridge {
+  &:before {
+    content: $iconsfordevs-adobe_bridge;
+  }
+}
+.iconsfordevs-adobe_audition {
+  &:before {
+    content: $iconsfordevs-adobe_audition;
+  }
+}
+.iconsfordevs-adobe_animate {
+  &:before {
+    content: $iconsfordevs-adobe_animate;
+  }
+}
+.iconsfordevs-adobe_air {
+  &:before {
+    content: $iconsfordevs-adobe_air;
+  }
+}
+.iconsfordevs-adobe_acrobat {
+  &:before {
+    content: $iconsfordevs-adobe_acrobat;
+  }
+}
 .iconsfordevs-adobe_dimension {
   &:before {
     content: $iconsfordevs-adobe_premiere;
