@@ -25,7 +25,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.iconsfordevs-digital-ocean {
+  &:before {
+    content: $iconsfordevs-digital-ocean;
+  }
+}
 .iconsfordevs-adobe_muse {
   &:before {
     content: $iconsfordevs-adobe_muse;
