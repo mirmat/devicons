@@ -25,6 +25,26 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.iconsfordevs-spring_boot {
+  &:before {
+    content: $iconsfordevs-spring_boot;
+  }
+}
+.iconsfordevs-spring_cloud_data {
+  &:before {
+    content: $iconsfordevs-spring_cloud_data;
+  }
+}
+.iconsfordevs-spring_cloud {
+  &:before {
+    content: $iconsfordevs-spring_cloud;
+  }
+}
+.iconsfordevs-spring_framework {
+  &:before {
+    content: $iconsfordevs-spring_framework;
+  }
+}
 .iconsfordevs-digital-ocean {
   &:before {
     content: $iconsfordevs-digital-ocean;
