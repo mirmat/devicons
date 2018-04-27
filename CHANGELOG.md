@@ -2,6 +2,23 @@
 
 ### Versions
 
+## [2.5.0](#2.5.0)
+
+#### Updated icons
+- AppStore
+- Safari
+- Bintray
+- Jira
+- Bitbucket
+- Firebase
+- DigitalOcean
+- Github
+- Gulp
+
+#### New icons
+- set of Spring icons
+
+
 ## [2.4.0](#2.4.0)
 
 #### Updated icons
