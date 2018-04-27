@@ -29,6 +29,7 @@ Do you have any additional request? Drop me a line or support an issue.
 
 
 ## Changelog
+- 2.5.0 - updated icons: AppStore, Safari, Bintray, Jira, Bitbucket, Firebase, DigitalOcean, Github, Gulp; NEW icons: Spring
 - 2.4.0 - updated icons: Photoshop, Apple Store, Travis, Adobe Illustrator, Adobe Dreamweaver, Adobe InDesign; NEW icons: Behance, Adobe icons: Creative Cloud, InCopy, Stock, Lightroom, XD, Flex, Frame Maker, After Effects, Coldfusion, Premiere, Dimension, Audition, AIR, Bridge, Reader, Animate, Muse, Captivate, Character Animator, Capture
 - 2.3.0 - updated icons: Atlassian, Opera; NEW icons: PureScript, Arduino, Vargant, Mercurial, Haxe, Gradle, Marionette, Gitlab, The Noun Project, InDesign, Handlebars, Mustache, Kubernetes, OData, Filezilla, Microsoft Edge, Sketch, D3, Shopware
 - 2.2.0 - updated icons: Komodo, Mozilla; NEW icons: Azure, Cucumber, CircleCI, Cordova, Jasmine, Karma, Shopify, Susy, VueJS
