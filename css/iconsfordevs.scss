@@ -25,6 +25,103 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.iconsfordevs-spring_amqp {
+&:before {
+  content: $iconsfordevs-spring_amqp;
+}
+}
+.iconsfordevs-spring_batch {
+&:before {
+  content: $iconsfordevs-spring_batch;
+}
+}
+.iconsfordevs-spring_data {
+&:before {
+  content: $iconsfordevs-spring_data;
+}
+}
+.iconsfordevs-spring_flo {
+&:before {
+  content: $iconsfordevs-spring_flo;
+}
+}
+.iconsfordevs-spring_for_android {
+&:before {
+  content: $iconsfordevs-spring_for_android;
+}
+}
+.iconsfordevs-spring_hateoas {
+&:before {
+  content: $iconsfordevs-spring_hateoas;
+}
+}
+.iconsfordevs-spring_integration {
+&:before {
+  content: $iconsfordevs-spring_integration;
+}
+}
+.iconsfordevs-spring_io_platform {
+&:before {
+  content: $iconsfordevs-spring_io_platform;
+}
+}
+.iconsfordevs-spring_kafka {
+&:before {
+  content: $iconsfordevs-spring_kafka;
+}
+}
+.iconsfordevs-spring_ldap {
+&:before {
+  content: $iconsfordevs-spring_ldap;
+}
+}
+.iconsfordevs-spring_mobile {
+&:before {
+  content: $iconsfordevs-spring_mobile;
+}
+}
+.iconsfordevs-spring_rest_docs {
+&:before {
+  content: $iconsfordevs-spring_rest_docs;
+}
+}
+.iconsfordevs-spring_security {
+&:before {
+  content: $iconsfordevs-spring_security;
+}
+}
+.iconsfordevs-spring_session {
+&:before {
+  content: $iconsfordevs-spring_session;
+}
+}
+.iconsfordevs-spring_shell {
+&:before {
+  content: $iconsfordevs-spring_shell;
+}
+}
+.iconsfordevs-spring_social {
+&:before {
+  content: $iconsfordevs-spring_social;
+}
+}
+.iconsfordevs-spring_statemachine {
+&:before {
+  content: $iconsfordevs-spring_statemachine;
+}
+}
+.iconsfordevs-spring_web_flow {
+&:before {
+  content: $iconsfordevs-spring_web_flow;
+}
+}
+
+.iconsfordevs-spring_web_services {
+  &:before {
+    content: $iconsfordevs-spring_web_services;
+  }
+}
 .iconsfordevs-spring_boot {
   &:before {
     content: $iconsfordevs-spring_boot;
